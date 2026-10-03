@@ -10,12 +10,13 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **AI/ML Engineer** specializing in **Computer Vision**, **Generative AI**, and **Retrieval-Augmented Generation (RAG)** systems. I focus on developing end-to-end Machine Learning pipelines and deploying robust production backend APIs using Python, FastAPI, and Docker.
+I am a passionate **AI/ML Engineer** specializing in **Computer Vision**, **Generative AI**, and **Retrieval-Augmented Generation (RAG)** systems. I focus on developing end-to-end Machine Learning pipelines and deploying robust production backend APIs on cloud platforms like **Google Cloud Run**.
 
+- 🏆 **Achievement:** Awarded **Google Cloud Silver Tier SWAG Winner** for building and deploying AI applications.
 - 🎓 **Education:** BS in Artificial Intelligence from *The Islamia University of Bahawalpur* (2022–2026).
-- 🔭 **Current Focus:** Deep Learning Model Optimization, Object Detection (YOLOv11), Real-time Pose Estimation, and Custom RAG Workflows.
+- 🔭 **Current Focus:** Deep Learning Model Optimization, Object Detection (YOLOv11), Cloud Deployment (Google Cloud Run / Docker), and Custom RAG Workflows.
 - 🌱 **Hands-on Experience:** Built computer vision pipelines using **9,000+ custom annotated image datasets** and developed context-aware multilingual AI assistants.
-- ⚡ **Interests:** Edge AI Deployment, High-Performance Microservices with FastAPI/Node.js, and Open-Source Software.
+- ⚡ **Interests:** Cloud Native AI Deployment, High-Performance Microservices with FastAPI/Node.js, and Open-Source Software.
 
 ---
 
@@ -26,13 +27,17 @@ I am a passionate **AI/ML Engineer** specializing in **Computer Vision**, **Gene
 | **Languages** | Python, JavaScript (Node.js), C++, SQL, Bash |
 | **Machine / Deep Learning** | TensorFlow, PyTorch, Keras, Scikit-Learn, OpenCV, Ultralytics YOLOv8/v11 |
 | **Generative AI & NLP** | Gemini API, Groq API, LangChain, RAG Pipelines, MediaPipe |
-| **Backend & Web Frameworks**| FastAPI, Flask, Streamlit, Express.js |
-| **Databases & Storage** | MongoDB, SQLite, PostgreSQL |
-| **DevOps & Tools** | Docker, Git, GitHub Actions, Google Cloud Run, Linux |
+| **Backend & Web Frameworks**| FastAPI, Express.js, Flask, Streamlit |
+| **Databases & Cloud** | MongoDB, SQLite, PostgreSQL, **Google Cloud Run**, Docker |
+| **DevOps & Tools** | Git, GitHub Actions, Linux, Docker |
 
 ---
 
 ## 💡 Highlighted Projects
+
+### 🎓 [EducationXAI](https://github.com/rizz01107) *(Google Cloud Deployed)*
+- **Tech Stack:** Node.js, Express, MongoDB, Google Gemini API, Google Cloud Run
+- AI-powered educational platform leveraging Gemini API for intelligent tutor capabilities, containerized with Docker, and deployed live on **Google Cloud Run**. Won **Google Cloud Silver Tier SWAG** recognition!
 
 ### 📱 [Mobile Phone Detection YOLOv11](https://github.com/rizz01107/Mobile-Phone-Detection-YOLOv11)
 - **Tech Stack:** Python, Ultralytics YOLOv11, OpenCV
@@ -49,10 +54,6 @@ I am a passionate **AI/ML Engineer** specializing in **Computer Vision**, **Gene
 ### 🏋️ [RepSense AI — Smart Fitness Coach](https://github.com/rizz01107/RepSense-AI)
 - **Tech Stack:** MediaPipe, YOLOv8, FastAPI, React, OpenCV
 - Real-time exercise form analysis and rep counting system using skeleton pose estimation and computer vision metrics.
-
-### 📄 [SmartDoc Analyzer AI](https://github.com/rizz01107/smartdoc-analyzer-ai)
-- **Tech Stack:** Gemini API, Python, Streamlit, RAG
-- Intelligent document querying and summarization system capable of extraction and natural language Q&A from multi-page PDFs.
 
 ---
 
