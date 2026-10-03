@@ -10,13 +10,13 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **AI/ML Engineer** specializing in **Computer Vision**, **Generative AI**, and **Retrieval-Augmented Generation (RAG)** systems. I focus on developing end-to-end Machine Learning pipelines and deploying robust production backend APIs on cloud platforms like **Google Cloud Run**.
+I am an **AI/ML Engineer** with hands-on experience in **Computer Vision**, **Generative AI**, **Natural Language Processing (NLP)**, and **RAG Workflows**. I focus on end-to-end Machine Learning pipelines, automated message/data scanning solutions, and cloud API deployments.
 
+- 💼 **Internship & Experience:** Completed AI/ML training and internship at **Samsung Innovation Campus**, working on real-world NLP models, automated message/spam scanning pipelines, and computer vision applications.
 - 🏆 **Achievement:** Awarded **Google Cloud Silver Tier SWAG Winner** for building and deploying AI applications.
 - 🎓 **Education:** BS in Artificial Intelligence from *The Islamia University of Bahawalpur* (2022–2026).
-- 🔭 **Current Focus:** Deep Learning Model Optimization, Object Detection (YOLOv11), Cloud Deployment (Google Cloud Run / Docker), and Custom RAG Workflows.
-- 🌱 **Hands-on Experience:** Built computer vision pipelines using **9,000+ custom annotated image datasets** and developed context-aware multilingual AI assistants.
-- ⚡ **Interests:** Cloud Native AI Deployment, High-Performance Microservices with FastAPI/Node.js, and Open-Source Software.
+- 🔬 **Core Expertise:** Deep Learning, Model Optimization, Object Detection (YOLOv11), Text/SMS Spam & Scam Detection, and Cloud Deployments (Google Cloud Run / Docker).
+- 🌱 **Hands-on Projects:** Developed computer vision models using **9,000+ custom annotated image datasets** and built context-aware multilingual AI assistants.
 
 ---
 
@@ -26,7 +26,7 @@ I am a passionate **AI/ML Engineer** specializing in **Computer Vision**, **Gene
 | :--- | :--- |
 | **Languages** | Python, JavaScript (Node.js), C++, SQL, Bash |
 | **Machine / Deep Learning** | TensorFlow, PyTorch, Keras, Scikit-Learn, OpenCV, Ultralytics YOLOv8/v11 |
-| **Generative AI & NLP** | Gemini API, Groq API, LangChain, RAG Pipelines, MediaPipe |
+| **Generative AI & NLP** | Gemini API, Groq API, LangChain, RAG Pipelines, SMS/Text Spam & Scam Scanning, MediaPipe |
 | **Backend & Web Frameworks**| FastAPI, Express.js, Flask, Streamlit |
 | **Databases & Cloud** | MongoDB, SQLite, PostgreSQL, **Google Cloud Run**, Docker |
 | **DevOps & Tools** | Git, GitHub Actions, Linux, Docker |
@@ -35,9 +35,13 @@ I am a passionate **AI/ML Engineer** specializing in **Computer Vision**, **Gene
 
 ## 💡 Highlighted Projects
 
-### 🎓 [EducationXAI](https://github.com/rizz01107) *(Google Cloud Deployed)*
+### 🛡️ [SMS Spam & Scam Detection System](https://github.com/rizz01107/SMS-Spam-Scam-Detection) *(Samsung Innovation Campus)*
+- **Tech Stack:** Python, Scikit-Learn, NLP, NLTK, Streamlit / FastAPI
+- Intelligent Natural Language Processing model developed during the **Samsung Innovation Campus** program to scan, classify, and filter fraudulent SMS text messages and spam in real time.
+
+### 🎓 [EducationXAI](https://github.com/rizz01107/EducationXAI) *(Google Cloud Deployed)*
 - **Tech Stack:** Node.js, Express, MongoDB, Google Gemini API, Google Cloud Run
-- AI-powered educational platform leveraging Gemini API for intelligent tutor capabilities, containerized with Docker, and deployed live on **Google Cloud Run**. Won **Google Cloud Silver Tier SWAG** recognition!
+- AI-powered educational platform leveraging Gemini API for intelligent tutor capabilities, containerized with Docker, and deployed live on **Google Cloud Run**. Recognized with **Google Cloud Silver Tier SWAG**!
 
 ### 📱 [Mobile Phone Detection YOLOv11](https://github.com/rizz01107/Mobile-Phone-Detection-YOLOv11)
 - **Tech Stack:** Python, Ultralytics YOLOv11, OpenCV
