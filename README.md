@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Rizwan 👋
 
 <p align="center">
-  <a href="https://linkedin.com/in/rizz01107"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rizz01107"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/rizz01107"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:rizwan01107@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -10,13 +10,15 @@
 
 ## 👨‍💻 About Me
 
-I am an **AI/ML Engineer** with hands-on experience in **Computer Vision**, **Generative AI**, **Natural Language Processing (NLP)**, and **RAG Workflows**. I focus on end-to-end Machine Learning pipelines, automated message/data scanning solutions, and cloud API deployments.
+I am an **AI/ML Engineer** with hands-on industry experience in **Computer Vision**, **Generative AI**, **Natural Language Processing (NLP)**, and **RAG Workflows**. I focus on end-to-end Machine Learning pipelines, automated message/data scanning solutions, and cloud API deployments.
 
-- 💼 **Internship & Experience:** Completed AI/ML training and internship at **Samsung Innovation Campus**, working on real-world NLP models, automated message/spam scanning pipelines, and computer vision applications.
-- 🏆 **Achievement:** Awarded **Google Cloud Silver Tier SWAG Winner** for building and deploying AI applications.
+- 💼 **Internships & Industry Experience:**
+  - **AI/ML Engineer Intern at FlyRank:** Developed Machine Learning solutions, automated data pipelines, and intelligent processing workflows.
+  - **Samsung Innovation Campus:** Completed specialized AI/ML training and worked on real-world NLP models, message scanning pipelines, and computer vision applications.
 - 🎓 **Education:** BS in Artificial Intelligence from *The Islamia University of Bahawalpur* (2022–2026).
+- 🏆 **Achievement:** Awarded **Google Cloud Silver Tier SWAG Winner** for building and deploying AI applications.
 - 🔬 **Core Expertise:** Deep Learning, Model Optimization, Object Detection (YOLOv11), Text/SMS Spam & Scam Detection, and Cloud Deployments (Google Cloud Run / Docker).
-- 🌱 **Hands-on Projects:** Developed computer vision models using **9,000+ custom annotated image datasets** and built context-aware multilingual AI assistants.
+- 🌱 **Hands-on Projects:** Developed computer vision models using **9,000+ custom annotated image datasets** for my Final Year Project (FYP) and built context-aware multilingual AI assistants.
 
 ---
 
@@ -35,7 +37,11 @@ I am an **AI/ML Engineer** with hands-on experience in **Computer Vision**, **Ge
 
 ## 💡 Highlighted Projects
 
-### 🛡️ [SMS Spam & Scam Detection System](https://github.com/rizz01107/SMS-Spam-Scam-Detection) *(Samsung Innovation Campus)*
+### 🍃 [Mango Leaf Disease Detection System](https://github.com/rizz01107/Mango-Leaf-Disease-Detection) *(Final Year Project - FYP)*
+- **Tech Stack:** TensorFlow, Keras, CNN, Streamlit, OpenCV
+- Agricultural computer vision application developed as my **Final Year Project (FYP)**, trained on a curated dataset of **9,000+ custom leaf images** to diagnose plant diseases and provide automated treatment recommendations.
+
+### 🛡️ [SMS Spam & Scam Detection System](https://github.com/rizz01107/sms-spam-detection) *(Samsung Innovation Campus)*
 - **Tech Stack:** Python, Scikit-Learn, NLP, NLTK, Streamlit / FastAPI
 - Intelligent Natural Language Processing model developed during the **Samsung Innovation Campus** program to scan, classify, and filter fraudulent SMS text messages and spam in real time.
 
@@ -50,10 +56,6 @@ I am an **AI/ML Engineer** with hands-on experience in **Computer Vision**, **Ge
 ### 💬 [Rizwan AI Companion](https://github.com/rizz01107/rizwan-ai-companion)
 - **Tech Stack:** FastAPI, Groq API, Python, NLP
 - Context-aware conversational AI assistant with custom memory management supporting both English and Roman Urdu.
-
-### 🍃 [Mango Leaf Disease Detection System](https://github.com/rizz01107/Mango-Leaf-Disease-Detection)
-- **Tech Stack:** TensorFlow, Keras, CNN, Streamlit, OpenCV
-- Agricultural computer vision application trained on a curated dataset of **9,000+ leaf images** to diagnose plant diseases and recommend treatment solutions.
 
 ### 🏋️ [RepSense AI — Smart Fitness Coach](https://github.com/rizz01107/RepSense-AI)
 - **Tech Stack:** MediaPipe, YOLOv8, FastAPI, React, OpenCV
