@@ -59,7 +59,7 @@ I am a passionate **AI/ML Engineer** specializing in **Computer Vision**, **Gene
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rizz01107&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Rizwan's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rizz01107&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true" alt="Rizwan's GitHub Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizz01107&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
 </p>
 
