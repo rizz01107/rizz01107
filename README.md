@@ -1,84 +1,72 @@
-# Hi there, I'm Muhammad Rizwan 👋
+# Muhammad Rizwan | AI/ML Engineer
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rizz01107"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/rizz01107"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:rizwan01107@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rizz01107"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
+  <a href="https://github.com/rizz01107"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
+  <a href="mailto:rizwan01107@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://rizz01107.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-5B8CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website"></a>
 </p>
 
----
+## About
 
-## 👨‍💻 About Me
+I am a BS Artificial Intelligence graduate from **The Islamia University of Bahawalpur (2022–2026)**, focused on practical AI engineering across machine learning, deep learning, natural language processing, computer vision, and generative AI.
 
-I am an **AI/ML Engineer** with hands-on industry experience in **Computer Vision**, **Generative AI**, **Natural Language Processing (NLP)**, and **RAG Workflows**. I focus on end-to-end Machine Learning pipelines, automated message/data scanning solutions, predictive modeling, and cloud API deployments.
+I enjoy building end-to-end projects—from data preparation and model evaluation to API development and application integration. My project work includes bilingual scam-message detection, mango-leaf disease classification, computer-vision fitness coaching, conversational AI, and **MARS-NLP**, a research project on multilingual scam-message classification.
 
-- 💼 **Internships & Professional Certifications:**
-  - **AI/ML Engineer Intern at FlyRank:** Developed Machine Learning solutions, automated data pipelines, and intelligent processing workflows.
-  - **Samsung Innovation Campus:** Completed specialized AI/ML training and worked on real-world NLP models, message scanning pipelines, and computer vision applications.
-  - **Hunarmand Punjab Program (NAVTTC/PITB):** Completed professional **Artificial Intelligence & Machine Learning (AI/ML)** training and hands-on predictive modeling projects.
-- 🎓 **Education:** BS in Artificial Intelligence from *The Islamia University of Bahawalpur* (2022–2026).
-- 🏆 **Achievement:** Awarded **Google Cloud Silver Tier SWAG Winner** for building and deploying AI applications.
-- 🔬 **Core Expertise:** Deep Learning, Model Optimization, Object Detection (YOLOv11), Text/SMS Spam & Scam Detection, Predictive Modeling, and Cloud Deployments (Google Cloud Run / Docker).
-- 🌱 **Hands-on Projects:** Developed computer vision models using **9,000+ custom annotated image datasets** for my Final Year Project (FYP) and built context-aware multilingual AI assistants.
+## Skills
 
----
+- **Programming:** Python, SQL
+- **ML/DL:** scikit-learn, TensorFlow, Keras, PyTorch, model evaluation and classification
+- **NLP & GenAI:** text classification, LLM application development, prompt engineering, Gemini API, Groq API
+- **Computer Vision:** OpenCV, MediaPipe, YOLOv8/YOLOv11, MobileNetV2
+- **Backend & Tools:** FastAPI, Flask, REST APIs, WebSockets, SQLite, Docker, Git, GitHub
 
-## 🛠️ Tech Stack & Skills
+## Featured Projects
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | Python, JavaScript (Node.js), C++, SQL, Bash |
-| **Machine / Deep Learning** | TensorFlow, PyTorch, Keras, Scikit-Learn, OpenCV, Ultralytics YOLOv8/v11 |
-| **Generative AI & NLP** | Gemini API, Groq API, LangChain, RAG Pipelines, SMS/Text Spam & Scam Scanning, MediaPipe |
-| **Backend & Web Frameworks**| FastAPI, Express.js, Flask, Streamlit |
-| **Databases & Cloud** | MongoDB, SQLite, PostgreSQL, **Google Cloud Run**, Docker |
-| **DevOps & Tools** | Git, GitHub Actions, Linux, Docker |
+### Research — MARS-NLP
+Research project on multilingual scam-message classification, including model comparisons, experiment documentation, error analysis, and manuscript materials. The repository contains project and release materials; **this work is not described as journal-published or peer-reviewed**.
 
----
+Repository: [rizz01107/MARS-NLP](https://github.com/rizz01107/MARS-NLP)
 
-## 💡 Highlighted Projects
+### GuardAI — Bilingual Scam & Fraud Detection
+English and Roman Urdu message classification using TF-IDF and Random Forest, with a Flask application and SQLite-backed history.
 
-### 🍃 [Mango Leaf Disease Detection System](https://github.com/rizz01107/Mango-Leaf-Disease-Detection) *(Final Year Project - FYP)*
-- **Tech Stack:** TensorFlow, Keras, CNN, Streamlit, OpenCV
-- Agricultural computer vision application developed as my **Final Year Project (FYP)**, trained on a curated dataset of **9,000+ custom leaf images** to diagnose plant diseases and provide automated treatment recommendations.
+Repository: [rizz01107/GuardAI](https://github.com/rizz01107/GuardAI)
 
-### 🛡️ [SMS Spam & Scam Detection System](https://github.com/rizz01107/SMS-Spam-Scam-Detection) *(Samsung Innovation Campus)*
-- **Tech Stack:** Python, Scikit-Learn, NLP, NLTK, Streamlit / FastAPI
-- Intelligent Natural Language Processing model developed during the **Samsung Innovation Campus** program to scan, classify, and filter fraudulent SMS text messages and spam in real time.
+### MangoLeafScan AI — AgriTech
+Final-year project for mango-leaf disease classification using MobileNetV2 transfer learning. The project reports 92.1% accuracy across nine disease/health categories.
 
-### 🏡 [House Price Prediction System](https://github.com/rizz01107/house-price-prediction) *(Hunarmand Punjab Program)*
-- **Tech Stack:** Python, Scikit-Learn, Pandas, NumPy, Regression Analytics
-- AI/ML regression project developed as the final capstone for the **Hunarmand Punjab Program**, performing feature engineering and predictive analytics to forecast real estate prices accurately.
+Repository: [Mango Leaf Disease Detection](https://github.com/rizz01107/Mango-Leaf-Disease-Detection)
 
-### 🎓 [EducationXAI](https://github.com/rizz01107/EducationXAI) *(Google Cloud Deployed)*
-- **Tech Stack:** Node.js, Express, MongoDB, Google Gemini API, Google Cloud Run
-- AI-powered educational platform leveraging Gemini API for intelligent tutor capabilities, containerized with Docker, and deployed live on **Google Cloud Run**. Recognized with **Google Cloud Silver Tier SWAG**!
+### Rizwan AI Companion
+FastAPI-based conversational assistant project with chat-history and mood/emotion-related features.
 
-### 📱 [Mobile Phone Detection YOLOv11](https://github.com/rizz01107/Mobile-Phone-Detection-YOLOv11)
-- **Tech Stack:** Python, Ultralytics YOLOv11, OpenCV
-- Real-time custom object detection system trained to identify mobile phone usage in video feeds with high accuracy and low inference latency.
+Repository: [rizz01107/rizwan-ai-companion](https://github.com/rizz01107/rizwan-ai-companion)
 
-### 💬 [Rizwan AI Companion](https://github.com/rizz01107/rizwan-ai-companion)
-- **Tech Stack:** FastAPI, Groq API, Python, NLP
-- Context-aware conversational AI assistant with custom memory management supporting both English and Roman Urdu.
+### RepSense-AI — Smart Fitness Coach
+Computer-vision fitness project using pose estimation, repetition counting, and feedback workflows.
 
-### 🏋️ [RepSense AI — Smart Fitness Coach](https://github.com/rizz01107/RepSense-AI)
-- **Tech Stack:** MediaPipe, YOLOv8, FastAPI, React, OpenCV
-- Real-time exercise form analysis and rep counting system using skeleton pose estimation and computer vision metrics.
+Repository: [rizz01107/RepSense-AI](https://github.com/rizz01107/RepSense-AI)
 
----
+### EducationXAI
+AI-assisted educational project for learning content discovery and roadmap features.
 
-## 📊 GitHub Analytics
+Repository: [rizz01107/EducationXAI](https://github.com/rizz01107/EducationXAI)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rizz01107&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true" alt="Rizwan's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizz01107&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
-</p>
+## Experience & Learning
 
----
+- **FlyRank AI:** Completed machine-learning internship assignments and capstone work in 2026.
+- **Samsung Innovation Campus:** AI/ML training and applied project work in 2026, including the GuardAI capstone.
+- **Google Developer Program — AI Seekho:** Silver Tier.
+- Additional learning: Google AI Essentials, Google Cloud Skills Boost — Introduction to Generative AI, Google Crash Course on Python, and Kaggle Learn — Python.
 
-## 📫 Let's Connect
+## Education
 
-- **LinkedIn:** [linkedin.com/in/rizz01107](https://www.linkedin.com/in/rizz01107)
-- **Email:** [rizwan01107@gmail.com](mailto:rizwan01107@gmail.com)
-- **GitHub:** [github.com/rizz01107](https://github.com/rizz01107)
+**BS Artificial Intelligence** — The Islamia University of Bahawalpur, 2022–2026.
+
+## Contact
+
+- Email: [rizwan01107@gmail.com](mailto:rizwan01107@gmail.com)
+- LinkedIn: [linkedin.com/in/rizz01107](https://www.linkedin.com/in/rizz01107)
+- Portfolio: [rizz01107.github.io](https://rizz01107.github.io)
+- GitHub: [github.com/rizz01107](https://github.com/rizz01107)
